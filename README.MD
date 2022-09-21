@@ -1,6 +1,6 @@
 # Server Monitor - Magnificent!
 
-Simple HTTP service monitor built as a coding challenge.
+Simple HTTP service monitor.
 Program should be run as a deamon or service. Once started it runs forever until it is killed manually (Ctrl+C on Windows).
 Program logs server availability every second like this:
 
